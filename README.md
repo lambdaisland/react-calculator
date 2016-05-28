@@ -2,6 +2,8 @@
 
 See the [full screencast on Lambda Island](https://lambdaisland.com/episodes/react-app-clojurescript).
 
+Try out [the demo](http://lambdaisland.github.io/react-calculator/resources/public/index.html).
+
 ## How to run this
 
 ### Figwheel plugin
